@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 import { Download, ArrowRight, Mail } from "lucide-react";
 
 export function Hero() {
-  const resumeLink = "https://drive.google.com/file/d/1-n-AMfZhBEbJC_uFE3BDUO5nTRQiR7p9/view?usp=sharing"; // Placeholder for provided GDrive link
+  const resumeLink = "https://drive.google.com/file/d/1P_Jny_-2l8-ikVk2ESMFXJc-idl_4W9J/view?usp=sharing"; // Placeholder for provided GDrive link
 
   return (
     <section className="relative w-full min-h-[calc(100vh-4rem)] flex items-center justify-center overflow-hidden py-12 md:py-24 lg:py-32 bg-background">
